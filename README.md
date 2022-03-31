@@ -9,8 +9,8 @@ This project is a submission for UM Hackathon 2021 Finance Domain. This project 
 - Chuah Ann Joe
 
 ## Requirement
-Forecast price movements of bonds
-Select top 5 bonds that will provide highest return/volatility ratio
+1. Forecast price movements of bonds
+2. Select top 5 bonds that will provide highest return/volatility ratio
 
 Details about the Problem Statement can refer to [UMHackathon 2021 Finance Domain Problem Statement](https://drive.google.com/file/d/14jpXbW_5A6yxBvfs1wYBvzZ-Sur5x1hW/view?usp=sharing)
 
