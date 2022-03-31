@@ -3,7 +3,7 @@ This project is a submission for UM Hackathon 2021 Finance Domain. This project 
 
 ## Our Team
 - Pang Chong Wen 
-- Elgene Eee Ding Ren
+- Elgene Ee Ding Ren
 - Kayshav Renganathan
 - Ho Zhi Yi
 - Chuah Ann Joe
